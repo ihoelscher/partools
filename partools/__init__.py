@@ -12,4 +12,4 @@ def _readme():
     with open(path.join(here, 'README.md'), encoding='utf-8') as f:
         return f.read()
 
-__doc__ = _readme()
+# __doc__ = _readme()
